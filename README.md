@@ -6,11 +6,11 @@ java Markov [FileName] [NGram size] [Output string size] [Number of Outputs]
 
 Number of Outputs is optional. Defaults to 10.
 
+
 *example*
 
 java Markov inn.txt 3 10
 
-// output
 >Fat Guy 
 
 >Arrogant Phan 
