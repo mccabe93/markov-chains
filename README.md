@@ -1,23 +1,23 @@
 # markov-chains
 Markov Chain Generator I wrote as part of the game I'm working on.
 
-#Usage
+###Usage
 java Markov [FileName] [NGram size] [Output string size] [Number of Outputs] 
 
 Number of Outputs is optional. Defaults to 10.
 
-ex.
+#####example
 
 java Markov inn.txt 3 10
 
 // output
-Fat Guy
-Arrogant Phan
-Secred Virgin
-Dead Warrasse
-Eastor
-Poor Inhabita
-Poor Boar
-Sacret Tricks
-Quicksmith
-Embariantom
+>Fat Guy 
+>Arrogant Phan 
+>Secred Virgin 
+>Dead Warrasse 
+>Eastor 
+>Poor Inhabita 
+>Poor Boar 
+>Sacret Tricks 
+>Quicksmith 
+>Embariantom 
